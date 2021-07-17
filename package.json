@@ -10,7 +10,15 @@
     "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Nour KAROUI",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nour-karoui/eth-todo-list"
+  },
+  "bugs": {
+    "url": "https://github.com/nour-karoui/eth-todo-list/issues"
+  },
+  "homepage": "https://github.com/nour-karoui/eth-todo-list",
   "license": "ISC",
   "devDependencies": {
     "bootstrap": "4.1.3",
@@ -23,6 +31,7 @@
     "truffle-contract": "3.0.6"
   },
   "dependencies": {
+    "readme-md-generator": "^1.0.0",
     "web3": "^1.4.0"
   }
 }

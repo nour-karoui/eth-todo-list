@@ -36,7 +36,7 @@ npm install
     <br/>
     ![image](https://user-images.githubusercontent.com/47257753/126052197-1aaae5e4-8d8c-489f-b107-17d38c16b78c.png)
 
-## Compiling and Deploying
+## Compiling and Deploying Smart Contracts
 
 ```sh
 truffle compile
